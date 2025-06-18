@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alancalvert.github.io/damhealthy-publii/sitemap.xml
